@@ -1,0 +1,19 @@
+{
+    "users" : [
+        {
+            "userid": 1,
+            "name": "Nitin Jangam",
+            "active": 1
+        },
+        {
+            "userid": 2,
+            "name": "Rushi Jangam",
+            "active": 1
+        },
+        {
+            "userid": 3,
+            "name": "Ravi Kumar",
+            "active": 0
+        }
+    ]   
+}
